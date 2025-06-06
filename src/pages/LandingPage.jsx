@@ -42,7 +42,7 @@ function LandingPage() {
 
       <Stack direction="row" spacing={2} justifyContent="center">
         <Button variant="contained" color="primary" sx={{ transition: 'transform 0.3s ease', '&:hover': { transform: 'scale(1.05)' } }}>
-          Login
+          Iniciar Sesión
         </Button>
         <Button variant="outlined" color="primary" sx={{ transition: 'transform 0.3s ease', '&:hover': { transform: 'scale(1.05)' } }}>
           Regístrate
