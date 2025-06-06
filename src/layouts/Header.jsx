@@ -7,7 +7,7 @@ import { keyframes } from '@mui/system';
 const fadeSlideIn = keyframes`
   from {
     opacity: 0;
-    transform: translateY(-10px);
+    transform: translateY(-7px);
   }
   to {
     opacity: 1;
