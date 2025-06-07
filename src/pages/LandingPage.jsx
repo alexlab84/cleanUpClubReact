@@ -1,4 +1,5 @@
 import React from 'react';
+import GroupList from '../components/GroupList';
 import {
   Container,
   Typography,
@@ -48,6 +49,7 @@ function LandingPage() {
           Regístrate
         </Button>
       </Stack>
+      <GroupList />
     </Container>
   );
 }
